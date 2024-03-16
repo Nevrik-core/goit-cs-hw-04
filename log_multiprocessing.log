@@ -1,0 +1,4 @@
+2024-03-16 11:26:26,394 - MainProcess: INFO - Keyword 'Wikipedia' found in files: file3.txt
+2024-03-16 11:26:26,394 - MainProcess: INFO - Keyword 'Висновки' found in files: file3.txt, file1.txt
+2024-03-16 11:26:26,394 - MainProcess: INFO - Keyword 'windows' found in files: file2.txt
+2024-03-16 11:26:26,396 - MainProcess: INFO - Execution time: 0.37845921516418457 seconds

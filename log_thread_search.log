@@ -1,0 +1,8 @@
+2024-03-16 11:26:33,190 - Thread-1 (worker) - INFO - Keyword 'Висновки' found in file: file1.txt
+2024-03-16 11:26:33,204 - Thread-2 (worker) - INFO - Keyword 'windows' found in file: file2.txt
+2024-03-16 11:26:33,205 - Thread-3 (worker) - INFO - Keyword 'Wikipedia' found in file: file3.txt
+2024-03-16 11:26:33,206 - Thread-3 (worker) - INFO - Keyword 'Висновки' found in file: file3.txt
+2024-03-16 11:26:33,206 - MainThread - INFO - Keyword 'Висновки' found in files: file1.txt, file3.txt
+2024-03-16 11:26:33,206 - MainThread - INFO - Keyword 'windows' found in files: file2.txt
+2024-03-16 11:26:33,206 - MainThread - INFO - Keyword 'Wikipedia' found in files: file3.txt
+2024-03-16 11:26:33,206 - MainThread - INFO - Execution time: 0.02159905433654785 seconds

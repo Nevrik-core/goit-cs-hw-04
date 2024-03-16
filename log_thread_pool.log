@@ -1,0 +1,13 @@
+2024-03-16 11:26:52,784 - PID 31141 - root - INFO - [PID 31141] Keyword 'windows' not found in file1.txt
+2024-03-16 11:26:52,788 - PID 31141 - root - INFO - [PID 31141] Keyword 'Висновки' found in file1.txt
+2024-03-16 11:26:52,790 - PID 31141 - root - INFO - [PID 31141] Keyword 'windows' not found in file3.txt
+2024-03-16 11:26:52,797 - PID 31141 - root - INFO - [PID 31141] Keyword 'windows' found in file2.txt
+2024-03-16 11:26:52,808 - PID 31141 - root - INFO - [PID 31141] Keyword 'Висновки' not found in file2.txt
+2024-03-16 11:26:52,813 - PID 31141 - root - INFO - [PID 31141] Keyword 'Висновки' found in file3.txt
+2024-03-16 11:26:52,822 - PID 31141 - root - INFO - [PID 31141] Keyword 'Wikipedia' not found in file1.txt
+2024-03-16 11:26:52,826 - PID 31141 - root - INFO - [PID 31141] Keyword 'Wikipedia' found in file3.txt
+2024-03-16 11:26:52,828 - PID 31141 - root - INFO - [PID 31141] Keyword 'Wikipedia' not found in file2.txt
+2024-03-16 11:26:52,829 - PID 31141 - root - INFO - Execution time: 0.04750204086303711 seconds
+2024-03-16 11:26:52,830 - PID 31141 - root - INFO - Keyword 'windows' found in files: file2.txt
+2024-03-16 11:26:52,830 - PID 31141 - root - INFO - Keyword 'Висновки' found in files: file1.txt, file3.txt
+2024-03-16 11:26:52,830 - PID 31141 - root - INFO - Keyword 'Wikipedia' found in files: file3.txt

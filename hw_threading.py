@@ -8,7 +8,7 @@ logger = logging.getLogger()
 logger.setLevel(logging.DEBUG)
 
 # Створення обробника для запису логів у файл
-file_handler = logging.FileHandler("search_log.log", mode='w')
+file_handler = logging.FileHandler("log_thread_search.log", mode='w')
 file_handler.setFormatter(logging.Formatter('%(asctime)s - %(threadName)s - %(levelname)s - %(message)s'))
 
 # Створення обробника для виводу логів в консоль

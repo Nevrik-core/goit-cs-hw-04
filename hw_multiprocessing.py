@@ -7,7 +7,7 @@ logging.basicConfig(level=logging.DEBUG,
                     format=f'%(asctime)s - %(processName)s: %(levelname)s - %(message)s')
 
 # Створення обробника для запису логів у файл
-file_handler = logging.FileHandler("multiprocessing_log.log", mode='w')
+file_handler = logging.FileHandler("log_multiprocessing.log", mode='w')
 file_handler.setFormatter(logging.Formatter(f'%(asctime)s - %(processName)s: %(levelname)s - %(message)s'))
 
 # Додавання обробника до логера
